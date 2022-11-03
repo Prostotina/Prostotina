@@ -13,14 +13,14 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prostotina)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prostotina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/prost0lesya/badges/small)](https://www.codewars.com/users/username) 
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Prostotina)](https://github.com/KnlnKS/leetcode-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Prostotina)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
